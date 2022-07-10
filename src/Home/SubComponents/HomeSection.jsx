@@ -8,7 +8,7 @@ const HomeSection = () => {
     </div>
 
     <div className='content'>
-        <h3>Welcome to Menti-World</h3>
+        <h3>Welcome to FeelsGood</h3>
         <p>Online People Connecting Platform</p>
         <a href='/register' className='btn'>Get Started</a>
     </div>
