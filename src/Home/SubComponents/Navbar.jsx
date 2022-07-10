@@ -38,7 +38,7 @@ const Navbar = ({user}) => {
   return (
         <div className="header">
       <a href="/" className="logo">
-        <i class="fa-solid fa-education"></i> Menti-World
+        <i class="fa-solid fa-education"></i> FeelsGood
       </a>
       <div className="fas fa-bars" onClick={handleBar}></div>
       <nav className={isClicked ? "navbar-active" : "navbar"}>
