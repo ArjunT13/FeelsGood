@@ -1,3 +1,6 @@
+# Hackathon Project
+### Feels Good: A platform for mental health awareness with a motive to bring happiness and positivity in your life.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
